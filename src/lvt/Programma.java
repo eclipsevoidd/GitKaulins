@@ -13,7 +13,7 @@ public class Programma {
 	}
 
 	public static void main(String[] args) {
-		System.out.println("Metamā kauliņa programma 🎲");
+		System.out.println("Metamā kauliņa programma ir loti lava🎲");
 		int reizes;
 		Scanner scan = new Scanner(System.in);
 		System.out.println("Cik reizes mest kauliņu?");
